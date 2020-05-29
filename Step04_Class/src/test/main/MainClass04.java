@@ -17,10 +17,12 @@ public class MainClass04 {
 		mem1.number = 1;
 		mem1.name = "김구라";
 		mem1.addr = "노량진";
+		mem1.showInfo();
 		
 		Member mem2 = new Member();
 		mem2.number = 2;
 		mem2.name = "해골";
 		mem2.addr = "행신동";
+		mem2.showInfo();
 	}
 }
