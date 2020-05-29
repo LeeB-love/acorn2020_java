@@ -26,4 +26,10 @@ public class Marine {
 		System.out.println("적에게 공격당했습니다.");
 		this.energy -= 10;
 	}
+	
+	public void died() {
+		if(this.energy <= 0) {
+			System.out.println("마린이 주겄슴돠;;");
+		}
+	}
 }

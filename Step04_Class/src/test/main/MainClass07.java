@@ -34,5 +34,11 @@ public class MainClass07 {
 		 //m2가 공격당함
 		 m2.attacked();
 		 m2.showEnergy();
+		 
+		 m1.attacked();
+		 m1.attacked();
+		 m1.showEnergy();
+		 
+		 m1.died();
 	}
 }
