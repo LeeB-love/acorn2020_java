@@ -14,3 +14,6 @@ public class Car {
 		System.out.println(this.name + "이(가) 달려요");
 	}
 }
+
+
+// 클래스의 구성품 : 필드 - 저장소/ 메소드 - 기능/ 생성자 - 객체가 생성되는 시점에 객체에 전달하는 것
