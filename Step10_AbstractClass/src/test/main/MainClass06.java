@@ -43,3 +43,8 @@ public class MainClass06 {
 		w.attack();
 	}
 }
+/*
+ * YourWeapon은 어차피 Weapon에 있던 기능을 오버라이드 했을 뿐... 새로운 기능을 추가한 것이 아니기 때문에
+ * Weapon 타입으로 받아도 그게 그거.. 만약 오버라이드할 때 새 기능 추가했으면 Weapon 타입으로 받으면 새기능 사용
+ * 불가하니까 걍 YourWeapon 타입으로 ㄱㄱ
+ */
