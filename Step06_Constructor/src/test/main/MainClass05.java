@@ -9,7 +9,7 @@ public class MainClass05 {
 		 *  입력받아서 무얼하나? 콘솔창에 출력한다.
 		 */
 		//System.in => inputstream 타입 관련
-		Scanner scan = new Scanner(System.in);    
+		Scanner scan = new Scanner(System.in);
 		//out은 콘솔에 출력하는 객체, in은 키보드와 연결되어있는 객체
 		//System.in을 생성자 인자에 넣지 않으면 제대로 작동하지 않는다.
 		
