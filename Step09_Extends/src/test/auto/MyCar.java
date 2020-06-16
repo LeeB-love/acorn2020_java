@@ -1,5 +1,5 @@
 package test.auto;
 
-public class MyCar { //extends SportsCar는 불가능하다. SportsCar가 final class이기 때문....
-
+public class MyCar { // extends SportsCar 는 불가능 하다. final class 
+	
 }
